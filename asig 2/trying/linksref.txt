@@ -1,0 +1,8 @@
+https://docs.python.org/3.1/library/random.html
+https://pymotw.com/2/threading/http://www.bogotobogo.com/python/Multithread/python_multithreading_subclassing_Timer_Object.php
+https://docs.python.org/3/library/functions.html#func-bytes
+https://docs.python.org/3/tutorial/datastructures.html
+https://docs.python.org/2/library/string.html
+https://pymotw.com/2/socket/udp.html
+
+https://gist.github.com/jxson/1784669 readme template
